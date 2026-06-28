@@ -51,7 +51,6 @@ Building modern Flutter portfolio projects and exploring opportunities to contri
 - 💼 [LinkedIn](https://linkedin.com/in/namarig-mohammed-7a03b9180)
 - 📧 namarigwahbi@gmail.com
 - 📍 Iowa City, IA, United States
-- 🎯 **Open to:** Flutter Developer, Mobile Engineer, Senior Software Engineer roles
 
 ---
 
