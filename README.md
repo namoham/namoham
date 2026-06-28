@@ -4,7 +4,7 @@
 
 I'm a software engineer with 5+ years of experience building production mobile applications. I specialize in **Flutter & Dart**, with deep expertise in state management, API integration, and cross-platform architecture. I led the development of the 4US mobile app in Sudan before relocating to the United States in 2023.
 
-Currently transitioning back to full-time mobile engineering and actively seeking **Flutter Developer**, **Mobile Software Engineer**, and **Senior Software Engineer** roles in the U.S.
+Building modern Flutter portfolio projects and exploring opportunities to contribute to impactful mobile products.
 
 ---
 
