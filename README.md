@@ -1,31 +1,64 @@
+# Hi, I'm Namarig Mohammed 👋
 
-# Hi, I'm Namarig Mohammed
+## Senior Software Engineer (Flutter) | Cross-Platform Mobile Developer | Former Senior Engineer at 4US
 
-**Data Analyst | SQL & Power BI Specialist | Former Senior Software Developer**
+I'm a software engineer with 5+ years of experience building production mobile applications. I specialize in **Flutter & Dart**, with deep expertise in state management, API integration, and cross-platform architecture. I led the development of the 4US mobile app in Sudan before relocating to the United States in 2023.
 
-## About Me
-- 4+ years of SQL development experience (Flutter, C#/.NET)
-- Bachelor's degree in Computer Science and Statistics
-- Relocated to the U.S. in 2023, now in Iowa City
-- Currently transitioning into full-time data analytics
+Currently transitioning back to full-time mobile engineering and actively seeking **Flutter Developer**, **Mobile Software Engineer**, and **Senior Software Engineer** roles in the U.S.
 
-## Skills
-- **SQL:** Advanced queries, window functions, CTEs, database design
-- **BI Tools:** Power BI, Tableau
-- **Programming:** Python, R, C#, Dart
-- **Statistics:** Statistical modeling, trend analysis, data validation
+---
 
-## Featured Project
-### [Iowa Workforce Analysis](https://github.com/namoham/iowa-workforce-analysis)
-End-to-end analysis of Iowa industry wage and employment trends using SQL and Power BI.
-- Identified top-paying sectors and growth trends
-- Built 3-page interactive dashboard
-- Applied data quality filtering and anomaly detection
+### 🛠 Tech Stack
 
-## Open To
-- Data Analyst roles
-- BI Analyst roles
-- Remote or Iowa-based positions
+**Mobile Development**
+- Flutter & Dart (primary)
+- State Management: Provider, BLoC, Riverpod
+- Platform: iOS, Android, cross-platform deployment
+- UI/UX: Material Design, Cupertino, custom animations
 
-## Connect
-- [LinkedIn](https://www.linkedin.com/in/namarig-mohammed/)
+**Backend & APIs**
+- Firebase (Authentication, Firestore, Cloud Functions, FCM)
+- RESTful APIs, JSON serialization, Dio/HTTP
+- SQLite, Hive, SharedPreferences (local persistence)
+
+**Languages & Tools**
+- Dart, Java, Python, C#, JavaScript
+- Android Studio, VS Code, Git, GitHub
+- CI/CD: GitHub Actions, Codemagic
+
+---
+
+### 📱 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[4US Mobile App](https://github.com/namoham/4usmobile)** | Production cooperative financial management platform. Offline-first architecture, biometric auth, multi-language support. | Flutter, Dart, Provider, SQLite, Firebase |
+| **[Flutter E-Commerce App](link)** | Full-featured e-commerce app with cart, auth, payments, and offline support. | Flutter, BLoC, Firebase, Stripe |
+| **[Flutter Social Feed](link)** | Real-time social app with infinite scroll, image upload, and push notifications. | Flutter, Riverpod, Firestore, FCM |
+
+---
+
+### 📊 My Background
+
+- **Senior Software Engineer @ 4US** (2019–2022): Led Flutter mobile development for production cooperative financial platform
+- **Software Developer @ Rasilat Links** (2018–2019): Full-stack web with ASP.NET MVC, C#, SQL Server
+- **Bachelor's in Computer Science & Statistics** — University of Khartoum
+
+---
+
+### 📫 Connect With Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/namarig-mohammed-7a03b9180)
+- 📧 namarigwahbi@gmail.com
+- 📍 Iowa City, IA, United States
+- 🎯 **Open to:** Flutter Developer, Mobile Engineer, Senior Software Engineer roles
+
+---
+
+### 🔥 Currently Building
+
+- Modern Flutter portfolio projects with clean architecture
+- Open source contributions to Flutter ecosystem
+- Reconnecting with the U.S. mobile engineering community
+
+*Last updated: June 2026*
