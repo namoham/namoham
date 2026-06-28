@@ -1,6 +1,6 @@
 # Hi, I'm Namarig Mohammed 👋
 
-## Senior Software Engineer (Flutter) | Cross-Platform Mobile Developer | Former Senior Engineer at 4US
+## Senior Software Engineer (Flutter) | Cross-Platform Mobile Developer
 
 I'm a software engineer with 5+ years of experience building production mobile applications. I specialize in **Flutter & Dart**, with deep expertise in state management, API integration, and cross-platform architecture. I led the development of the 4US mobile app in Sudan before relocating to the United States in 2023.
 
