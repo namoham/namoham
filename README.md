@@ -40,7 +40,7 @@ Currently transitioning back to full-time mobile engineering and actively seekin
 
 ### 📊 My Background
 
-- **Senior Software Engineer @ 4US** (2019–2022): Led Flutter mobile development for production cooperative financial platform
+- **Senior Software Engineer @ 4US** (2019–2023): Led Flutter mobile development for production cooperative financial platform
 - **Software Developer @ Rasilat Links** (2018–2019): Full-stack web with ASP.NET MVC, C#, SQL Server
 - **Bachelor's in Computer Science & Statistics** — University of Khartoum
 
