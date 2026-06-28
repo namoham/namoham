@@ -27,15 +27,14 @@ Building modern Flutter portfolio projects and exploring opportunities to contri
 - CI/CD: GitHub Actions, Codemagic
 
 ---
-
 ### 📱 Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
 | **[4US Mobile App](https://github.com/namoham/4usmobile)** | Production cooperative financial management platform. Offline-first architecture, biometric auth, multi-language support. | Flutter, Dart, Provider, SQLite, Firebase |
+| **[CareFlow](https://github.com/namoham/careflow)** | Supported Living Management App — healthcare scheduling, documentation, and care coordination. Currently in active development. | Flutter, Dart, Firebase |
 | **[Flutter E-Commerce App](link)** | Full-featured e-commerce app with cart, auth, payments, and offline support. | Flutter, BLoC, Firebase, Stripe |
 | **[Flutter Social Feed](link)** | Real-time social app with infinite scroll, image upload, and push notifications. | Flutter, Riverpod, Firestore, FCM |
-
 ---
 
 ### 📊 My Background
