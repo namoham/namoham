@@ -45,7 +45,7 @@ Building modern Flutter portfolio projects and exploring opportunities to contri
 
 ### 📫 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/namarig-mohammed-7a03b9180)
+- 💼 [LinkedIn](https://linkedin.com/in/namarig-k-mohammed)
 - 📧 namarigwahbi@gmail.com
 - 📍 Iowa City, IA, United States
 
