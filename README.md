@@ -4,6 +4,8 @@
 
 I'm a software engineer with 5+ years of experience building production mobile applications. I specialize in **Flutter & Dart**, with deep expertise in state management, API integration, and cross-platform architecture. I led the development of the 4US mobile app in Sudan before relocating to the United States in 2023.
 
+Currently building and running ShiftBoard, a real-time Flutter app in daily use by a Supported Living team, while exploring opportunities to contribute to impactful mobile products.
+
 Building modern Flutter portfolio projects and exploring opportunities to contribute to impactful mobile products.
 
 ---
@@ -27,6 +29,13 @@ Building modern Flutter portfolio projects and exploring opportunities to contri
 - CI/CD: GitHub Actions, Codemagic
 
 ---
+| Project                                                       | Description                                                                                                                     | Tech                                      |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| **[ShiftBoard](https://github.com/namoham/shiftboard)**       | Real-time daily task and communication board for a Supported Living team, self-identified need, independently designed, built, and deployed. In active daily use.  | Flutter, Dart, Firebase (Firestore, Auth, Hosting) |
+| **[4US Mobile App](https://github.com/namoham/4usmobile)**    | Production cooperative financial management platform. Offline-first architecture, biometric auth, multi-language support.       | Flutter, Dart, Provider, SQLite, Firebase |
+| **[CareFlow](https://github.com/namoham/careflow)**           | Supported Living management app — client management, staff scheduling, and incident tracking. Currently in active development. | Flutter, Dart, Firebase                   |
+
+
 ### 📱 Featured Projects
 
 | Project | Description | Tech |
@@ -52,6 +61,10 @@ Building modern Flutter portfolio projects and exploring opportunities to contri
 ---
 
 ### 🔥 Currently Building
+
+- ShiftBoard — real-time task and communication tooling for Supported Living teams
+- Open source contributions to Flutter ecosystem
+- Reconnecting with the U.S. mobile engineering community
 
 - Modern Flutter portfolio projects with clean architecture
 - Open source contributions to Flutter ecosystem
