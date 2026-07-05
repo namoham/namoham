@@ -6,8 +6,6 @@ I'm a software engineer with 5+ years of experience building production mobile a
 
 Currently building and running ShiftBoard, a real-time Flutter app in daily use by a Supported Living team, while exploring opportunities to contribute to impactful mobile products.
 
-Building modern Flutter portfolio projects and exploring opportunities to contribute to impactful mobile products.
-
 ---
 
 ### 🛠 Tech Stack
@@ -29,19 +27,15 @@ Building modern Flutter portfolio projects and exploring opportunities to contri
 - CI/CD: GitHub Actions, Codemagic
 
 ---
+
+### 📱 Featured Projects
+
 | Project                                                       | Description                                                                                                                     | Tech                                      |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
 | **[ShiftBoard](https://github.com/namoham/shiftboard)**       | Real-time daily task and communication board for a Supported Living team, self-identified need, independently designed, built, and deployed. In active daily use.  | Flutter, Dart, Firebase (Firestore, Auth, Hosting) |
 | **[4US Mobile App](https://github.com/namoham/4usmobile)**    | Production cooperative financial management platform. Offline-first architecture, biometric auth, multi-language support.       | Flutter, Dart, Provider, SQLite, Firebase |
 | **[CareFlow](https://github.com/namoham/careflow)**           | Supported Living management app — client management, staff scheduling, and incident tracking. Currently in active development. | Flutter, Dart, Firebase                   |
 
-
-### 📱 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[4US Mobile App](https://github.com/namoham/4usmobile)** | Production cooperative financial management platform. Offline-first architecture, biometric auth, multi-language support. | Flutter, Dart, Provider, SQLite, Firebase |
-| **[CareFlow](https://github.com/namoham/careflow)** | Supported Living Management App — healthcare scheduling, documentation, and care coordination. Currently in active development. | Flutter, Dart, Firebase |
 ---
 
 ### 📊 My Background
@@ -66,8 +60,4 @@ Building modern Flutter portfolio projects and exploring opportunities to contri
 - Open source contributions to Flutter ecosystem
 - Reconnecting with the U.S. mobile engineering community
 
-- Modern Flutter portfolio projects with clean architecture
-- Open source contributions to Flutter ecosystem
-- Reconnecting with the U.S. mobile engineering community
-
-*Last updated: June 2026*
+*Last updated: July 2026*
